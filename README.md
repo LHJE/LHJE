@@ -17,7 +17,7 @@ My name is Luke, and I'm having a great day.
 ### On the side:
 - 📻 &nbsp; Local Radio DJ  
 - 🐉 &nbsp; D&D Dungeon Master  
-- 🥁/🎸/🧑‍🎤/🎹 &nbsp; [Musician](https://www.zealot.cool)  
+- 🥁 /🎸 /🧑‍🎤 /🎹 &nbsp; [Musician](https://www.zealot.cool)  
 
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lhje)](https://github.com/lhje/github-readme-stats)
 
