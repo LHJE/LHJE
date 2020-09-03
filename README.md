@@ -15,8 +15,8 @@ My name is Luke, and I'm having a great day.
 🎓 [Soon to be grad of Turing!]  
 
 ### On the side:
-:dnd: 
 📻 Local Radio DJ  
+🐉 D&D Dungeon Master  
 🥁/🎸/🧑‍🎤/🎹  Musician  
 
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lhje)](https://github.com/lhje/github-readme-stats)
