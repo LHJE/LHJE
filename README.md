@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hey there! 👋
+###### Pronouns: he/him/his
+
+My name is Luke, and I'm having a great day.
+
+### Currently:
+- 🏫 Studying backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating first quarter 2021)
+
+### Previously:
+👨‍💼 Social Worker +10 Years\
+
+### Formal Education:
+🎓 B.A. in Psychology
+🎓 M.A. in Humanities
+🎓 [Soon to be grad of Turing!]
+
+### On the side:
+🥁/🎸/🧑‍🎤/🎹 Musician
+📻 Local Radio DJ
 
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lhje)](https://github.com/lhje/github-readme-stats)
 
