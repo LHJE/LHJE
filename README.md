@@ -10,13 +10,13 @@ My name is Luke, and I'm having a great day.
 - 👨‍💼 Social Worker +10 Years
 
 ### Formal Education:
-- 🎓 B.A. in Psychology  
-- 🎓 M.A. in Humanities  
-- 🎓 [Soon to be grad of Turing!]  
+- 🎓  B.A. in Psychology  
+- 🎓  M.A. in Humanities  
+- 🎓  [Soon to be grad of Turing!]  
 
 ### On the side:
-- 📻 Local Radio DJ  
-- 🐉 D&D Dungeon Master  
+- 📻  Local Radio DJ  
+- 🐉  D&D Dungeon Master  
 - 🥁/🎸/🧑‍🎤/🎹  [Musician](https://www.zealot.cool)  
 
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lhje)](https://github.com/lhje/github-readme-stats)
