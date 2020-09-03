@@ -4,7 +4,7 @@
 My name is Luke, and I'm having a great day.
 
 ### Currently:
-- 🏫  Studying backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating first quarter 2021)
+- 🏫  &nbsp; Studying backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating first quarter 2021)
 
 ### Previously:
 - 👨‍💼 &nbsp; Social Worker +10 Years
