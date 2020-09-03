@@ -24,7 +24,6 @@ My name is Luke, and I'm having a great day.
 ### 📫 Let's get in touch!
 Email: theeluke@gmail.com\
 Linkedin: [https://www.linkedin.com/in/luke-hunter-james-erickson-b65682143/](https://www.linkedin.com/in/luke-hunter-james-erickson-b65682143/)\
-Website: 
 <!--
 **LHJE/LHJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
