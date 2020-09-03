@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lhje)](https://github.com/lhje/github-readme-stats)
+
+
 <!--
 **LHJE/LHJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
