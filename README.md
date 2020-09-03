@@ -2,7 +2,10 @@
 
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lhje)](https://github.com/lhje/github-readme-stats)
 
-
+### 📫 Let's get in touch!
+Email: theeluke@gmail.com\
+Linkedin: [https://www.linkedin.com/in/luke-hunter-james-erickson-b65682143/](https://www.linkedin.com/in/luke-hunter-james-erickson-b65682143/)\
+Website: [leahriffell.com](www.leahriffell.com)
 <!--
 **LHJE/LHJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
