@@ -9,6 +9,11 @@ My name is Luke, and I'm having a great day.
 ### Previously:
 👨‍💼 Social Worker +10 Years\
 
+
+🎨 UX + UI Designer\
+📝 Project Manager\
+📈 Data Analyst\
+
 ### Formal Education:
 🎓 B.A. in Psychology
 🎓 M.A. in Humanities
