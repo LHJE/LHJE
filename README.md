@@ -7,8 +7,8 @@ My name is Luke, and I'm having a great day.
 🏫  &nbsp; Studying backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating first quarter 2021)
 
 ### Previously:
-👨‍💼 &nbsp; Social Worker +10 Years  
-_[view my resume](https://drive.google.com/file/d/1j5DCjlHgTSkc_KNpdb8hmxRX5Ub5mTJ9/view?usp=sharing)_  
+👨‍💼 &nbsp; Social Worker/Case Manager +10 Years  
+_[view my case management resume](https://drive.google.com/file/d/1j5DCjlHgTSkc_KNpdb8hmxRX5Ub5mTJ9/view?usp=sharing)_  
 
 ### Formal Education:
 - 🎓 &nbsp; B.A. in Psychology  
