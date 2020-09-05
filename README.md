@@ -8,7 +8,7 @@ My name is Luke, and I'm having a great day.
 
 ### Previously:
 👨‍💼 &nbsp; Social Worker/Case Manager +10 Years  
-_[view my case management resume](https://drive.google.com/file/d/1j5DCjlHgTSkc_KNpdb8hmxRX5Ub5mTJ9/view?usp=sharing)_  
+_[view my resume](https://drive.google.com/file/d/1D7OqygF0Nv-jO9YljUDJ5Jm83ShL3pyQ/view?usp=sharing)_  
 
 ### Formal Education:
 - 🎓 &nbsp; B.A. in Psychology  
