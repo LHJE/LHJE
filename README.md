@@ -13,7 +13,7 @@ _[view my resume](https://drive.google.com/file/d/1D7OqygF0Nv-jO9YljUDJ5Jm83ShL3
 ### Formal Education:
 - 🎓 &nbsp; B.A. in Psychology  
 - 🎓 &nbsp; M.A. in Humanities  
-- 🎓 &nbsp; [Soon to be grad of Turing!]  
+- 🎓 &nbsp; Back End Engineering Certificate
 
 ### On the side:
 - 📻 &nbsp; Local Radio DJ  
