@@ -4,7 +4,7 @@
 My name is Luke, and I'm having a great day.
 
 ### Currently:
-🏫  &nbsp; Studying backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating first quarter 2021)
+🏫  &nbsp; Refactoring projects I worked on for the last few months while studying at [Turing School of Software and Design](https://turing.io/)
 
 ### Previously:
 👨‍💼 &nbsp; Social Worker/Case Manager +10 Years  
@@ -24,7 +24,7 @@ _[view my resume](https://drive.google.com/file/d/1D7OqygF0Nv-jO9YljUDJ5Jm83ShL3
 
 ### 📫 Let's get in touch!
 Email: theeluke@gmail.com\
-Linkedin: [https://www.linkedin.com/in/luke-hunter-james-erickson-b65682143/](https://www.linkedin.com/in/luke-hunter-james-erickson-b65682143/)\
+Linkedin: [https://www.linkedin.com/in/lhje/](https://www.linkedin.com/in/luke-hunter-james-erickson-b65682143/)
 <!--
 **LHJE/LHJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
