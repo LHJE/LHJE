@@ -16,8 +16,8 @@ _[view my resume](https://drive.google.com/file/d/1D7OqygF0Nv-jO9YljUDJ5Jm83ShL3
 - 🎓 &nbsp; Back End Engineering Certificate
 
 ### On the side:
-- 📻 &nbsp; Local Radio DJ  
-- 🐉 &nbsp; D&D Dungeon Master  
+- 📻 &nbsp; [Local Radio DJ](https://archive.org/details/STLMTM2017-2020)
+- 🐉 &nbsp; D&D Dungeon Master
 - 🥁 &nbsp;/🎸 &nbsp;/🧑‍🎤 &nbsp;/🎹 &nbsp; [Musician](https://www.zealot.cool)  
 
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lhje)](https://github.com/lhje/github-readme-stats)
