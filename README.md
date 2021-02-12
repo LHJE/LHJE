@@ -2,7 +2,7 @@
 ###### Pronouns: he/him/his
 
 My name is Luke, and I'm having a great day.
-###### _[view my resume](https://docs.google.com/document/d/1Telm2U4VYF6KrVP8XN41En0191FJQOHUl2zzJmy-msI/edit?usp=sharing)_  
+##### _[view my resume](https://docs.google.com/document/d/1Telm2U4VYF6KrVP8XN41En0191FJQOHUl2zzJmy-msI/edit?usp=sharing)_  
 
 ### Currently:
 🏫  &nbsp; Refactoring projects I worked on for the last few months while studying at [Turing School of Software and Design](https://turing.io/)
