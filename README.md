@@ -13,7 +13,7 @@ My name is Luke, and I'm having a great day.
 ### Formal Education:
 - 🎓 &nbsp; B.A. in Psychology  
 - 🎓 &nbsp; M.A. in Humanities  
-- 🎓 &nbsp; Back End Engineering Certificate
+- 🎓 &nbsp; Backend Engineering Certificate
 
 ### On the side:
 - 📻 &nbsp; [Local Radio DJ](https://archive.org/details/STLMTM2017-2020)
