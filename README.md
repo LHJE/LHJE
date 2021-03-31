@@ -5,7 +5,7 @@ My name is Luke, and I'm having a great day.
 #### _[view my resume](https://docs.google.com/document/d/1Telm2U4VYF6KrVP8XN41En0191FJQOHUl2zzJmy-msI/edit?usp=sharing)_  
 
 ### Currently:
-🏫  &nbsp; Refactoring projects I worked on for the last few months while studying at [Turing School of Software and Design](https://turing.io/)
+🏫  &nbsp; Working on an Non-Player Character generator for Dungeon's and Dragons 5e with a UX/UI Designer and a Frontend Designer. [See the deployed app here](https://eldrit.ch/), and [the repo here](https://github.com/LHJE/npc_generator)
 
 ### Previously:
 👨‍💼 &nbsp; Social Worker/Case Manager 10+ Years  
