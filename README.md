@@ -5,7 +5,7 @@ My name is Luke, and I'm having a great day.
 #### _[view my resume](https://drive.google.com/file/d/1eG7_-PuDYnwH3Nvj3xnj4FodvsNRusf7/view?usp=sharing)_  
 
 ### Currently:
-🏫  &nbsp; Working on an Non-Player Character generator for Dungeon's and Dragons 5e with a UX/UI Designer and a Frontend Designer. [See the deployed app here](https://npc-generator-lhje.herokuapp.com/), and [the repo here](https://github.com/LHJE/npc_generator)
+🏫  &nbsp; Working on an Non-Player Character generator for Dungeon's and Dragons 5e with a UX/UI Designer and a Frontend Designer. [See the deployed app here](https://npc-generator-lhje.herokuapp.com/), and [the repo here](https://github.com/LHJE/npc_generator).
 
 ### Previously:
 👨‍💼 &nbsp; Social Worker/Case Manager 10+ Years  
