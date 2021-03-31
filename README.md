@@ -2,7 +2,7 @@
 ###### Pronouns: he/him/his
 
 My name is Luke, and I'm having a great day.
-#### _[view my resume](https://docs.google.com/document/d/1Telm2U4VYF6KrVP8XN41En0191FJQOHUl2zzJmy-msI/edit?usp=sharing)_  
+#### _[view my resume](https://drive.google.com/file/d/1eG7_-PuDYnwH3Nvj3xnj4FodvsNRusf7/view?usp=sharing)_  
 
 ### Currently:
 🏫  &nbsp; Working on an Non-Player Character generator for Dungeon's and Dragons 5e with a UX/UI Designer and a Frontend Designer. [See the deployed app here](https://eldrit.ch/), and [the repo here](https://github.com/LHJE/npc_generator)
