@@ -7,7 +7,7 @@ My name is Luke, and I'm having a great day.
 🏠👨‍💻 Full Time Working with the wonderful [Trakstar](https://www.trakstar.com/) team as a Software Engineer since 2021.  
 
 ### On The Backburner:
-🏫  &nbsp; Working on an Non-Player Character generator for Dungeon's and Dragons 5e with a UX/UI Designer and a Frontend Designer. [See the deployed app here](https://npc-generator-lhje.herokuapp.com/), and [the repo here](https://github.com/LHJE/npc_generator).
+🏫  &nbsp; Working on an Non-Player Character generator for Dungeon's and Dragons 5e with a UX/UI Designer and a Frontend Designer. [See the repo here](https://github.com/LHJE/npc_generator).
 
 ### Previously:
 👨‍💼 &nbsp; Social Worker/Case Manager 10+ Years  
